@@ -12,8 +12,7 @@
 #### Install SNPkey
 
 ```R
-packageurl <- "https://github.com/TXiang-lab/rPEC/blob/main/binary/0.2.0/win-R-4.0/rPEC_0.2.0.zip"
-install.packages(packageurl,repos=NULL)
+install.packages("https://github.com/TXiang-lab/SNPkey/SNPkey_0.1.0.tar.gz",repos=NULL)
 ```
 ### <u>Data preparation</u>
 
